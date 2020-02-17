@@ -1,2 +1,2 @@
-# LeftCenterRightsimulation
+# Left-Center-Right-Simulation
 A Python simulation of the dice/ money game Left Center Right. Capable of visualizing turn-probability distributions, the relationship between number of players and number of turns, the average amount of turns, etc...
